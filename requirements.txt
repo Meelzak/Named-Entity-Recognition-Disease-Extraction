@@ -2,3 +2,8 @@ jupyter
 pandas
 tqdm
 keras
+numpy
+matplotlib
+regex
+spacy
+nltk
